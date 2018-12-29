@@ -25,5 +25,5 @@ do {
   array.length > 0 
 incrementVariable();
 }
-while (i < 0)
+while (i < 1)
 return array }

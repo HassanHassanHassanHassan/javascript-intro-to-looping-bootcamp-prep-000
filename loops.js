@@ -22,6 +22,7 @@ function incrementVariable() {
   i = i + 1;
 }
 do {
+  array.pop
   array.length > 0 
 incrementVariable();
 }

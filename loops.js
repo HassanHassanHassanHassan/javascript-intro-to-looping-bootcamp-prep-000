@@ -21,9 +21,8 @@ var i = 0;
 function incrementVariable() {
   i = i + 1;
 }
- const l = array.length
 do {
-  let array.length = 10;  
+  array.length > 0 
 incrementVariable();
 }
 while (i < 1)

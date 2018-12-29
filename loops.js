@@ -23,7 +23,7 @@ function incrementVariable() {
 }
  const l = array.length
 do {
-  array.length > 0 
+  let array.length = 10  
 incrementVariable();
 }
 while (i < 1)
